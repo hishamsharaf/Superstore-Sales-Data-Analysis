@@ -4,3 +4,8 @@ Dive into Superstore Sales data, to provide suggestions and recommendations for 
 # The Analysis
 1-Superstore Customer Segmentation
 
+![seg_cus](pie.png)
+
+2-Customer Sales insights
+
+
