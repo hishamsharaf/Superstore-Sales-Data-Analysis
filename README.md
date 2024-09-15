@@ -28,7 +28,7 @@ print(repeat_customers_sorted.head(12).reset_index(drop=True))
 
 5- Customer Loyalty at Superstores by (Total Sales)
 
-![table2](Capture2222.PNG)
+![table2](Screenshot_20240915_141243_Chrome.jpg)
 
 The table for total sales shows that customer with higher sales not necessary have the highest orders.
 
